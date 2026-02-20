@@ -25,8 +25,7 @@ This repository contains Python programs that I have practiced while learning in
 - Functions  
 - Recursion  
 - Strings and Lists  
-- File Handling  
-- Exception Handling  
+- File Handling 
 - Object-Oriented Programming (OOP)  
 - Practice Problems  
 
