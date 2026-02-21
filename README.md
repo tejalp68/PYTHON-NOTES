@@ -7,14 +7,32 @@ This repository contains Python programs that I have practiced while learning in
 ---
 
 ## 📂 Repository Structure
+## 📂 Repository Structure
 
 ```
 .
-├── python.py      # Basic Python concepts and foundational programs
-└── python2.py     # Intermediate concepts and practice problems
+├── PYTHON.ipynb      # Original Jupyter Notebook (with outputs)
+├── PYTHON.py         # Clean Python script (code only)
+├── PYTHON2.ipynb     # Second Jupyter Notebook (with outputs)
+└── PYTHON2.py        # Converted Python script (code only)
 ```
 
 ---
+
+## 📌 File Details
+
+### 📘 PYTHON.ipynb  
+Contains foundational Python concepts practiced in Jupyter Notebook, including outputs and experimentation.
+
+### 📄 PYTHON.py  
+Converted version of `PYTHON.ipynb` containing only executable code without outputs, structured for clean script execution.
+
+### 📘 PYTHON2.ipynb  
+Contains additional Python concepts, practice problems, and extended examples written in Jupyter Notebook.
+
+### 📄 PYTHON2.py  
+Clean script version of `PYTHON2.ipynb`, containing only the executable Python code.
+
 
 ## 📌 Topics Covered
 
