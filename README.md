@@ -7,7 +7,6 @@ This repository contains Python programs that I have practiced while learning in
 ---
 
 ## 📂 Repository Structure
-## 📂 Repository Structure
 
 ```
 .
