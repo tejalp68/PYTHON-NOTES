@@ -9,7 +9,6 @@ This repository contains Python programs that I have practiced while learning in
 ## 📂 Repository Structure
 
 ```
-.
 ├── PYTHON.ipynb      # Original Jupyter Notebook (with outputs)
 ├── PYTHON.py         # Clean Python script (code only)
 ├── PYTHON2.ipynb     # Second Jupyter Notebook (with outputs)
