@@ -40,7 +40,8 @@ Clean script version of `PYTHON2.ipynb`, containing only the executable Python c
 - Loops (for, while)  
 - Functions  
 - Recursion  
-- Strings and Lists  
+- Strings and Lists
+- Dictionary and Sets
 - File Handling 
 - Object-Oriented Programming (OOP)  
 - Practice Problems  
