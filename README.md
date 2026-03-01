@@ -2,7 +2,7 @@
 
 Welcome to my Python Practice Repository!
 
-This repository contains Python programs that I have practiced while learning in Jupyter Notebook. It includes concept-based examples, logic-building exercises, and problem-solving programs ranging from beginner to intermediate level.
+This repository contains Python programs that I have practiced while learning in Jupyter Notebook. It includes concept based examples, logic-building exercises, and problem-solving programs ranging from beginner to intermediate level.
 
 ---
 
