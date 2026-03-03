@@ -88,7 +88,9 @@ python python2.py
 ## 🧠 Author
 
 **Tejal Pagar**  
-Python Learner | Aspiring Developer  
+Python Learner | Aspiring Developer    
+📍INDIA
+
 
 ---
 
